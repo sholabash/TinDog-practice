@@ -1,0 +1,181 @@
+body {
+  font-family: "Montserrat", sans-serif;
+}
+
+#title {
+  background-color: #ff4c68;
+}
+
+#title .container-fluid {
+  padding: 3% 15%;
+}
+.col-lg-6 h1 {
+  font-family: "Montserrat", sans-serif;
+  font-weight: bold;
+  font-size: 2.5rem;
+  height: 1.5;
+  color: white;
+}
+
+.col-lg-6 img {
+  transform: rotate(15deg);
+  -ms-transform: rotate(15deg);
+  -webkit-transform: rotate(15deg);
+
+  border: none;
+}
+
+/* navigation bar*/
+
+.container-fluid .navbar-brand {
+  font-size: 2.5rem;
+}
+
+.container-fluid .navbar {
+  padding: 0 0 4.5rem;
+}
+
+.nav-item {
+  margin: 0 18px;
+}
+.nav-link {
+  font-size: 1.2rem;
+  font-family: "Montserrat";
+}
+
+.downoad-button {
+  margin: 5% 3% 5% 0%;
+}
+
+.title-image {
+  width: 60%;
+}
+
+/* Features   */
+
+#features .container-fluid {
+  padding: 3% 15%;
+  margin-top: -200px;
+  position: relative;
+  background: white;
+}
+
+#features h3 {
+  font-weight: bold;
+  text-align: center;
+}
+
+#features p {
+  font-family: "Montserrat";
+  margin: 10px;
+  text-align: center;
+  color: #8f8f8f;
+}
+
+.feature-box {
+  padding: 20px;
+}
+
+/* testimonials */
+
+#testimonials {
+  padding: 3% 15%;
+  background: #ff4c68;
+}
+
+.main-slider1 h2 {
+  text-align: center;
+  font-family: "Montserrat", sans-serif;
+  font-weight: bold;
+  font-size: 2.5rem;
+  color: white;
+}
+
+.main-slider1 {
+  text-align: center;
+}
+
+.main-slider1 img {
+  border-radius: 70%;
+  width: 10%;
+}
+
+.main-slider1 {
+  padding: 50px;
+}
+
+/* Press */
+#press {
+  padding: 3% 15%;
+  background: #ff4c68;
+}
+
+.press img {
+  width: 100%;
+}
+
+/* Pricing*/
+
+#pricing {
+  padding: 3% 15%;
+}
+
+#pricing .priceh1 {
+  font-family: "Montserrat", sans-serif;
+  font-weight: bold;
+  size: 4.5rem;
+  height: 1.5;
+  text-align: center;
+}
+
+#pricing .priceh2 {
+  font-family: "Montserrat";
+  font-size: 12px;
+  text-align: center;
+  color: #8f8f8f;
+}
+
+.tb1 {
+  padding: 10px;
+  border: 1px solid black;
+  text-align: center;
+}
+#pricing h3 {
+  font-family: "Montserrat", sans-serif;
+  font-weight: bold;
+  font-size: 2.5rem;
+  height: 1.5;
+}
+
+#pricing h2 {
+  font-family: "Montserrat", sans-serif;
+  font-weight: bold;
+  font-size: 2.5rem;
+  height: 1.5;
+}
+
+/* Footer */
+#cta {
+  padding: 3% 15%;
+  background: #ff4c68;
+  text-align: center;
+}
+
+.callto {
+  padding: 50px;
+}
+
+#cta h3 {
+  font-family: "Montserrat", sans-serif;
+  font-weight: bold;
+  font-size: 2.5rem;
+  height: 1.5;
+  color: white;
+}
+
+/* Footer */
+
+#footer {
+  padding: 3% 15%;
+  text-align: center;
+}
